@@ -1,0 +1,123 @@
+[
+  {
+    "id": "TR-001",
+    "title": "Phase III Type 2 Diabetes Therapy Study",
+    "phase": "Phase III",
+    "condition": "Type 2 Diabetes Mellitus",
+    "location": "Hyderabad",
+    "sponsor": "NovaThera Research",
+    "inclusion": {
+      "age_min": 40,
+      "age_max": 65,
+      "conditions": [
+        "type 2 diabetes",
+        "type 2 diabetes mellitus"
+      ],
+      "hba1c_min": 7.0,
+      "hba1c_max": 10.0,
+      "bmi_min": 25.0
+    },
+    "exclusion": {
+      "severe_renal_disease": true,
+      "pregnancy": true,
+      "conflicting_medications": [
+        "investigational insulin"
+      ]
+    }
+  },
+  {
+    "id": "TR-002",
+    "title": "Metabolic Health Combination Therapy Trial",
+    "phase": "Phase II",
+    "condition": "Type 2 Diabetes and Obesity",
+    "location": "Hyderabad",
+    "sponsor": "Asterion Bio",
+    "inclusion": {
+      "age_min": 35,
+      "age_max": 70,
+      "conditions": [
+        "type 2 diabetes",
+        "obesity"
+      ],
+      "hba1c_min": 6.5,
+      "hba1c_max": 9.5,
+      "bmi_min": 27.0
+    },
+    "exclusion": {
+      "severe_heart_failure": true,
+      "severe_renal_disease": true,
+      "pregnancy": true,
+      "conflicting_medications": []
+    }
+  },
+  {
+    "id": "TR-003",
+    "title": "Cardiometabolic Risk Reduction Study",
+    "phase": "Phase III",
+    "condition": "Diabetes with Hypertension",
+    "location": "Bengaluru",
+    "sponsor": "HelixNova",
+    "inclusion": {
+      "age_min": 45,
+      "age_max": 75,
+      "conditions": [
+        "type 2 diabetes",
+        "hypertension"
+      ],
+      "hba1c_min": 7.0,
+      "hba1c_max": 9.0,
+      "bmi_min": 23.0
+    },
+    "exclusion": {
+      "severe_renal_disease": true,
+      "recent_cardiac_event": true,
+      "pregnancy": true,
+      "conflicting_medications": []
+    }
+  },
+  {
+    "id": "TR-004",
+    "title": "Early Diabetes Prevention Intervention",
+    "phase": "Phase II",
+    "condition": "Prediabetes",
+    "location": "Chennai",
+    "sponsor": "VitaCore Labs",
+    "inclusion": {
+      "age_min": 30,
+      "age_max": 60,
+      "conditions": [
+        "prediabetes"
+      ],
+      "hba1c_min": 5.7,
+      "hba1c_max": 6.4,
+      "bmi_min": 25.0
+    },
+    "exclusion": {
+      "pregnancy": true,
+      "conflicting_medications": []
+    }
+  },
+  {
+    "id": "TR-005",
+    "title": "Diabetes Renal Outcomes Observational Study",
+    "phase": "Observational",
+    "condition": "Type 2 Diabetes with Kidney Risk",
+    "location": "Hyderabad",
+    "sponsor": "Clinical Insights Network",
+    "inclusion": {
+      "age_min": 40,
+      "age_max": 80,
+      "conditions": [
+        "type 2 diabetes",
+        "chronic kidney disease"
+      ],
+      "hba1c_min": 6.5,
+      "hba1c_max": 11.0,
+      "bmi_min": 20.0
+    },
+    "exclusion": {
+      "pregnancy": true,
+      "conflicting_medications": []
+    }
+  }
+]

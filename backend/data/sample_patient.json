@@ -1,0 +1,20 @@
+{
+  "patient_id": "P001",
+  "age": 52,
+  "sex": "Male",
+  "location": "Hyderabad",
+  "conditions": [
+    "Type 2 Diabetes Mellitus",
+    "Hypertension"
+  ],
+  "medications": [
+    "Metformin",
+    "Atorvastatin"
+  ],
+  "labs": {
+    "HbA1c": 8.2,
+    "BMI": 28.1,
+    "eGFR": 88
+  },
+  "medical_history": "No severe renal disease. No recent cardiac event. No pregnancy."
+}

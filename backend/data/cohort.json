@@ -1,0 +1,146 @@
+[
+  {
+    "patient_id": "P001",
+    "age": 52,
+    "sex": "Male",
+    "location": "Hyderabad"
+  },
+  {
+    "patient_id": "P002",
+    "age": 34,
+    "sex": "Female",
+    "location": "Bengaluru"
+  },
+  {
+    "patient_id": "P003",
+    "age": 67,
+    "sex": "Male",
+    "location": "Chennai"
+  },
+  {
+    "patient_id": "P004",
+    "age": 45,
+    "sex": "Female",
+    "location": "Hyderabad"
+  },
+  {
+    "patient_id": "P005",
+    "age": 29,
+    "sex": "Male",
+    "location": "Mumbai"
+  },
+  {
+    "patient_id": "P006",
+    "age": 61,
+    "sex": "Female",
+    "location": "Chennai"
+  },
+  {
+    "patient_id": "P007",
+    "age": 56,
+    "sex": "Male",
+    "location": "Hyderabad"
+  },
+  {
+    "patient_id": "P008",
+    "age": 38,
+    "sex": "Female",
+    "location": "Bengaluru"
+  },
+  {
+    "patient_id": "P009",
+    "age": 72,
+    "sex": "Male",
+    "location": "Chennai"
+  },
+  {
+    "patient_id": "P010",
+    "age": 41,
+    "sex": "Female",
+    "location": "Hyderabad"
+  },
+  {
+    "patient_id": "P011",
+    "age": 26,
+    "sex": "Male",
+    "location": "Mumbai"
+  },
+  {
+    "patient_id": "P012",
+    "age": 64,
+    "sex": "Female",
+    "location": "Hyderabad"
+  },
+  {
+    "patient_id": "P013",
+    "age": 49,
+    "sex": "Male",
+    "location": "Bengaluru"
+  },
+  {
+    "patient_id": "P014",
+    "age": 31,
+    "sex": "Female",
+    "location": "Chennai"
+  },
+  {
+    "patient_id": "P015",
+    "age": 58,
+    "sex": "Male",
+    "location": "Hyderabad"
+  },
+  {
+    "patient_id": "P016",
+    "age": 69,
+    "sex": "Female",
+    "location": "Mumbai"
+  },
+  {
+    "patient_id": "P017",
+    "age": 43,
+    "sex": "Male",
+    "location": "Bengaluru"
+  },
+  {
+    "patient_id": "P018",
+    "age": 36,
+    "sex": "Female",
+    "location": "Hyderabad"
+  },
+  {
+    "patient_id": "P019",
+    "age": 63,
+    "sex": "Male",
+    "location": "Chennai"
+  },
+  {
+    "patient_id": "P020",
+    "age": 47,
+    "sex": "Female",
+    "location": "Mumbai"
+  },
+  {
+    "patient_id": "P021",
+    "age": 74,
+    "sex": "Male",
+    "location": "Hyderabad"
+  },
+  {
+    "patient_id": "P022",
+    "age": 33,
+    "sex": "Female",
+    "location": "Bengaluru"
+  },
+  {
+    "patient_id": "P023",
+    "age": 55,
+    "sex": "Male",
+    "location": "Chennai"
+  },
+  {
+    "patient_id": "P024",
+    "age": 68,
+    "sex": "Female",
+    "location": "Hyderabad"
+  }
+]
